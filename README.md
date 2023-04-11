@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am a Computer Science student at the University of Bath, and I am currently in my second year.
+📫 How to reach me: alexsilcock13@gmail.com
 <!--
 **alex-silcock/alex-silcock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
